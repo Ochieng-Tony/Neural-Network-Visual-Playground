@@ -10,5 +10,5 @@ It provides a hands-on way to understand how neural networks work, how different
 - Step-by-step explanation of concepts
 - Great for students, researchers, and anyone curious about neural networks
 
-## 📂 Project Structure
+
 
